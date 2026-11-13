@@ -28,6 +28,7 @@ In this project, the tools used are as follows:
 ├── Dashboard/
 │   ├── MSME_Credit_Dashboard.pbix                 # Power BI data visualization dashboard
 │   ├── Dashboard_Preview_P1.png
-│   └── Dashboard_Preview_P2.png
+│   ├── Dashboard_Preview_P2.png
+│   └── Dashboard_Preview_P2_NonDenied.png
 └── README.md
 ```
